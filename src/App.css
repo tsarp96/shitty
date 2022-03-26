@@ -1,38 +1,61 @@
-.App {
-  text-align: center;
+footer{
+    background-color:khaki;
+    height: 2em;
+    padding-top: 1%;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+header{
+    height: 4em;
+    background-color: khaki;
+    top: 0;
+    width: 100%;
+    position: fixed;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#home-button{
+    position: fixed;
+    bottom: 0;
+    height: 5em;
+    width: 5em;
+    border-radius: 50%;
+    background-color: khaki;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 1px solid black;
+    text-align: center;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+#home-button > img{
+    height: 75%;
+    width: 75%;
+    /* bottom: 50%; */
+    transform: translateY(10%);
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+footer > a{
+    margin-left: 5%;
 }
 
-.App-link {
-  color: #61dafb;
+#home-container{
+    margin-top: 4em;
+    height: 100%;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+#shit-post-text-area{
+    width: 80%;
+    background-color:antiquewhite;
 }
+
+#shit-post-sender-container{
+    margin-top: 170%;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+
+
+
+
