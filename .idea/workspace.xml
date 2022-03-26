@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9995ef91-63c9-48e5-a61b-8cefa29001ce" name="Changes" comment="inital">
+    <list default="true" id="9995ef91-63c9-48e5-a61b-8cefa29001ce" name="Changes" comment="change margin for shit-post-sender-container">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648335776022</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="change margin for shit-post-sender-container">
+      <created>1648336112271</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1648336112271</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +92,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="inital" />
-    <option name="LAST_COMMIT_MESSAGE" value="inital" />
+    <MESSAGE value="change margin for shit-post-sender-container" />
+    <option name="LAST_COMMIT_MESSAGE" value="change margin for shit-post-sender-container" />
   </component>
 </project>
